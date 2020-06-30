@@ -1,7 +1,9 @@
+package deliverable1;
+
 import java.util.Scanner;
 
 
-public class VacationType {
+public class deliverable1 {
 	public static void main(String[] args) {
 		
 		String type;
@@ -63,4 +65,3 @@ public class VacationType {
 		return false;
 	}
 	}
-
